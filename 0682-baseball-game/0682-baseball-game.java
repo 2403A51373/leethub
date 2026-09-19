@@ -6,9 +6,10 @@ class Solution {
             else if (op.equals("D")) {    st.push(st.peek() * 2);    }
             else if (op.equals("+")) {
                 int v1 = st.pop();
-                int v2 = v1 + st.peek();
-                st.push(v1);      
-                st.push(v2);  
+                int v2 = st.pop();
+                st.push(v2);      
+                st.push(v1);  
+                st.push(v2+v1);
             }
             else {    st.push(Integer.parseInt(op));    }
         }

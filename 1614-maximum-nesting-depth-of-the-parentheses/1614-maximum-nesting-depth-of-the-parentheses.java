@@ -1,5 +1,20 @@
 class Solution {
     public int maxDepth(String s) {
+        int c = 0;
+        int m = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == '(') {
+                c++;
+                m = Math.max(m, c);
+            } 
+            else if (s.charAt(i) == ')') {
+                c--;
+            }
+        }
+
+        return m;
+        /*
         Stack<Character> st = new Stack<>();
         int c1 = 0 ; 
         int c2 = 0;
@@ -17,6 +32,6 @@ class Solution {
 
         }
         return c2;
-
+        */
     }
 }

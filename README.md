@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/2403A51373/leethub/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/2403A51373/leethub/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/2403A51373/leethub/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/2403A51373/leethub/tree/master/0977-squares-of-a-sorted-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/2403A51373/leethub/tree/master/1441-build-an-array-with-stack-operations) |
 ## Binary Search
 |  |
@@ -49,9 +50,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/2403A51373/leethub/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/2403A51373/leethub/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/2403A51373/leethub/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/2403A51373/leethub/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/2403A51373/leethub/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/2403A51373/leethub/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/2403A51373/leethub/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->

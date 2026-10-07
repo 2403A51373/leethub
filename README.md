@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/2403A51373/leethub/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/2403A51373/leethub/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/2403A51373/leethub/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/2403A51373/leethub/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/2403A51373/leethub/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/2403A51373/leethub/tree/master/0922-sort-array-by-parity-ii) |
 | [0946-validate-stack-sequences](https://github.com/2403A51373/leethub/tree/master/0946-validate-stack-sequences) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/2403A51373/leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/2403A51373/leethub/tree/master/0287-find-the-duplicate-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/2403A51373/leethub/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/2403A51373/leethub/tree/master/0287-find-the-duplicate-number) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/2403A51373/leethub/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

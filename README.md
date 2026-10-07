@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2403A51373/leethub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/2403A51373/leethub/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2403A51373/leethub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3163-string-compression-iii](https://github.com/2403A51373/leethub/tree/master/3163-string-compression-iii) |
 | [3174-clear-digits](https://github.com/2403A51373/leethub/tree/master/3174-clear-digits) |
 ## Stack
 |  |

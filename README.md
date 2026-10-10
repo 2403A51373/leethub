@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/2403A51373/leethub/tree/master/0977-squares-of-a-sorted-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/2403A51373/leethub/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/2403A51373/leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/2403A51373/leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/2403A51373/leethub/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/2403A51373/leethub/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/2403A51373/leethub/tree/master/1441-build-an-array-with-stack-operations) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/2403A51373/leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3174-clear-digits](https://github.com/2403A51373/leethub/tree/master/3174-clear-digits) |
 ## Two Pointers
 |  |
@@ -126,4 +128,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2403A51373/leethub/tree/master/0852-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/2403A51373/leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/2403A51373/leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/2403A51373/leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->

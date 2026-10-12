@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/2403A51373/leethub/tree/master/0922-sort-array-by-parity-ii) |
 | [0946-validate-stack-sequences](https://github.com/2403A51373/leethub/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/2403A51373/leethub/tree/master/0977-squares-of-a-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2403A51373/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/2403A51373/leethub/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/2403A51373/leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/2403A51373/leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/2403A51373/leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/2403A51373/leethub/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2403A51373/leethub/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2403A51373/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/2403A51373/leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2403A51373/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->

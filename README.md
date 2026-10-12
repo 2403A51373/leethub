@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/2403A51373/leethub/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/2403A51373/leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/2403A51373/leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/2403A51373/leethub/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/2403A51373/leethub/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2403A51373/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/2403A51373/leethub/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |

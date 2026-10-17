@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2403A51373/leethub/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/2403A51373/leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/2403A51373/leethub/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/2403A51373/leethub/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/2403A51373/leethub/tree/master/0739-daily-temperatures) |
@@ -174,9 +175,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2403A51373/leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/2403A51373/leethub/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2403A51373/leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/2403A51373/leethub/tree/master/2236-root-equals-sum-of-children) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2403A51373/leethub/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

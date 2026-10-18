@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2403A51373/leethub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3163-string-compression-iii](https://github.com/2403A51373/leethub/tree/master/3163-string-compression-iii) |
 | [3174-clear-digits](https://github.com/2403A51373/leethub/tree/master/3174-clear-digits) |
+| [3794-reverse-string-prefix](https://github.com/2403A51373/leethub/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/2403A51373/leethub/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/2403A51373/leethub/tree/master/1089-duplicate-zeros) |
 | [2367-number-of-arithmetic-triplets](https://github.com/2403A51373/leethub/tree/master/2367-number-of-arithmetic-triplets) |
+| [3794-reverse-string-prefix](https://github.com/2403A51373/leethub/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |

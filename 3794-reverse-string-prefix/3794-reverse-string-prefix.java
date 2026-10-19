@@ -4,12 +4,8 @@ class Solution {
         StringBuilder s2 = new StringBuilder();
         for(int i = 0; i < s.length(); i++){
             char ch = s.charAt(i);
-            if(i < k){
-                s1.append(ch);
-            }
-            else{
-                s2.append(ch);
-            }
+            if(i < k){    s1.append(ch);    }
+            else{    s2.append(ch);    }
         }
         s1.reverse();
         s1.append(s2);

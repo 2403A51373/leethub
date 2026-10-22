@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2403A51373/leethub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/2403A51373/leethub/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2403A51373/leethub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/2403A51373/leethub/tree/master/2000-reverse-prefix-of-word) |
 | [3163-string-compression-iii](https://github.com/2403A51373/leethub/tree/master/3163-string-compression-iii) |
 | [3174-clear-digits](https://github.com/2403A51373/leethub/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/2403A51373/leethub/tree/master/3794-reverse-string-prefix) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/2403A51373/leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/2403A51373/leethub/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2403A51373/leethub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/2403A51373/leethub/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/2403A51373/leethub/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/2403A51373/leethub/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/2403A51373/leethub/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/2403A51373/leethub/tree/master/1089-duplicate-zeros) |
+| [2000-reverse-prefix-of-word](https://github.com/2403A51373/leethub/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/2403A51373/leethub/tree/master/2367-number-of-arithmetic-triplets) |
 | [3794-reverse-string-prefix](https://github.com/2403A51373/leethub/tree/master/3794-reverse-string-prefix) |
 ## Sorting

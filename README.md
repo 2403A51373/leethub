@@ -234,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/2403A51373/leethub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2403A51373/leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/2403A51373/leethub/tree/master/1609-even-odd-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/2403A51373/leethub/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->

@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/2403A51373/leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/2403A51373/leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/2403A51373/leethub/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0700-search-in-a-binary-search-tree](https://github.com/2403A51373/leethub/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2403A51373/leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/2403A51373/leethub/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/2403A51373/leethub/tree/master/2236-root-equals-sum-of-children) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/2403A51373/leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/2403A51373/leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/2403A51373/leethub/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0700-search-in-a-binary-search-tree](https://github.com/2403A51373/leethub/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2403A51373/leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/2403A51373/leethub/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/2403A51373/leethub/tree/master/2236-root-equals-sum-of-children) |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/2403A51373/leethub/tree/master/1791-find-center-of-star-graph) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/2403A51373/leethub/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->

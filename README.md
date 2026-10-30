@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/2403A51373/leethub/tree/master/1089-duplicate-zeros) |
 | [2000-reverse-prefix-of-word](https://github.com/2403A51373/leethub/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/2403A51373/leethub/tree/master/2367-number-of-arithmetic-triplets) |
+| [2396-strictly-palindromic-number](https://github.com/2403A51373/leethub/tree/master/2396-strictly-palindromic-number) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/2403A51373/leethub/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3794-reverse-string-prefix](https://github.com/2403A51373/leethub/tree/master/3794-reverse-string-prefix) |
 ## Sorting
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/2403A51373/leethub/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/2403A51373/leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2396-strictly-palindromic-number](https://github.com/2403A51373/leethub/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/2403A51373/leethub/tree/master/0374-guess-number-higher-or-lower) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/2403A51373/leethub/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/2403A51373/leethub/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2403A51373/leethub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/2403A51373/leethub/tree/master/2000-reverse-prefix-of-word) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/2403A51373/leethub/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3163-string-compression-iii](https://github.com/2403A51373/leethub/tree/master/3163-string-compression-iii) |
 | [3174-clear-digits](https://github.com/2403A51373/leethub/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/2403A51373/leethub/tree/master/3794-reverse-string-prefix) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/2403A51373/leethub/tree/master/1089-duplicate-zeros) |
 | [2000-reverse-prefix-of-word](https://github.com/2403A51373/leethub/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/2403A51373/leethub/tree/master/2367-number-of-arithmetic-triplets) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/2403A51373/leethub/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3794-reverse-string-prefix](https://github.com/2403A51373/leethub/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2403A51373/leethub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/2403A51373/leethub/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Monotonic Stack
 |  |
 | ------- |

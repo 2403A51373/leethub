@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/2403A51373/leethub/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2403A51373/leethub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/2403A51373/leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0198-house-robber](https://github.com/2403A51373/leethub/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2403A51373/leethub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/2403A51373/leethub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/2403A51373/leethub/tree/master/0287-find-the-duplicate-number) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/2403A51373/leethub/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/2403A51373/leethub/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/2403A51373/leethub/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/2403A51373/leethub/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization

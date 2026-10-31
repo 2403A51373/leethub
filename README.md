@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/2403A51373/leethub/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/2403A51373/leethub/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/2403A51373/leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2396-strictly-palindromic-number](https://github.com/2403A51373/leethub/tree/master/2396-strictly-palindromic-number) |
@@ -263,10 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/2403A51373/leethub/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/2403A51373/leethub/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/2403A51373/leethub/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/2403A51373/leethub/tree/master/1137-n-th-tribonacci-number) |
 ## Interactive
 |  |

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/2403A51373/leethub/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/2403A51373/leethub/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/2403A51373/leethub/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/2403A51373/leethub/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2403A51373/leethub/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/2403A51373/leethub/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/2403A51373/leethub/tree/master/0922-sort-array-by-parity-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/2403A51373/leethub/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/2403A51373/leethub/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/2403A51373/leethub/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |

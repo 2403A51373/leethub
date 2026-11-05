@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2403A51373/leethub/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/2403A51373/leethub/tree/master/0022-generate-parentheses) |
 | [0443-string-compression](https://github.com/2403A51373/leethub/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/2403A51373/leethub/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2403A51373/leethub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2403A51373/leethub/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/2403A51373/leethub/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2403A51373/leethub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/2403A51373/leethub/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2403A51373/leethub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/2403A51373/leethub/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/2403A51373/leethub/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/2403A51373/leethub/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/2403A51373/leethub/tree/master/0746-min-cost-climbing-stairs) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/2403A51373/leethub/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/2403A51373/leethub/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/2403A51373/leethub/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

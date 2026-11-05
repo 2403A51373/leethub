@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2403A51373/leethub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/2403A51373/leethub/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/2403A51373/leethub/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/2403A51373/leethub/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/2403A51373/leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/2403A51373/leethub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/2403A51373/leethub/tree/master/0198-house-robber) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2403A51373/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/2403A51373/leethub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/2403A51373/leethub/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/2403A51373/leethub/tree/master/0079-word-search) |
 | [0443-string-compression](https://github.com/2403A51373/leethub/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/2403A51373/leethub/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2403A51373/leethub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/2403A51373/leethub/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2403A51373/leethub/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2403A51373/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/2403A51373/leethub/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/2403A51373/leethub/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/2403A51373/leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/2403A51373/leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/2403A51373/leethub/tree/master/0101-symmetric-tree) |
@@ -333,4 +337,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/2403A51373/leethub/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/2403A51373/leethub/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/2403A51373/leethub/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/2403A51373/leethub/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

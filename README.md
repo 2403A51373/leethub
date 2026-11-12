@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/2403A51373/leethub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/2403A51373/leethub/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/2403A51373/leethub/tree/master/0079-word-search) |
+| [0171-excel-sheet-column-number](https://github.com/2403A51373/leethub/tree/master/0171-excel-sheet-column-number) |
 | [0443-string-compression](https://github.com/2403A51373/leethub/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/2403A51373/leethub/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2403A51373/leethub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/2403A51373/leethub/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/2403A51373/leethub/tree/master/0171-excel-sheet-column-number) |
 | [1137-n-th-tribonacci-number](https://github.com/2403A51373/leethub/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/2403A51373/leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2396-strictly-palindromic-number](https://github.com/2403A51373/leethub/tree/master/2396-strictly-palindromic-number) |

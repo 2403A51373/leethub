@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/2403A51373/leethub/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/2403A51373/leethub/tree/master/0494-target-sum) |
 | [0682-baseball-game](https://github.com/2403A51373/leethub/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/2403A51373/leethub/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/2403A51373/leethub/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/2403A51373/leethub/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2403A51373/leethub/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/2403A51373/leethub/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/2403A51373/leethub/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2403A51373/leethub/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/2403A51373/leethub/tree/master/0695-max-area-of-island) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2403A51373/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/2403A51373/leethub/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Divide and Conquer
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/2403A51373/leethub/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/2403A51373/leethub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2403A51373/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/2403A51373/leethub/tree/master/0695-max-area-of-island) |
 | [0938-range-sum-of-bst](https://github.com/2403A51373/leethub/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2403A51373/leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/2403A51373/leethub/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/2403A51373/leethub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2403A51373/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/2403A51373/leethub/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2403A51373/leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/2403A51373/leethub/tree/master/1609-even-odd-tree) |
 ## Graph Theory
@@ -370,4 +374,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/2403A51373/leethub/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/2403A51373/leethub/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->

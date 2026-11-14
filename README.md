@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/2403A51373/leethub/tree/master/0922-sort-array-by-parity-ii) |
 | [0946-validate-stack-sequences](https://github.com/2403A51373/leethub/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/2403A51373/leethub/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/2403A51373/leethub/tree/master/0997-find-the-town-judge) |
 | [1089-duplicate-zeros](https://github.com/2403A51373/leethub/tree/master/1089-duplicate-zeros) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2403A51373/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/2403A51373/leethub/tree/master/1441-build-an-array-with-stack-operations) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2403A51373/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2403A51373/leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2403A51373/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0997-find-the-town-judge](https://github.com/2403A51373/leethub/tree/master/0997-find-the-town-judge) |
 | [2367-number-of-arithmetic-triplets](https://github.com/2403A51373/leethub/tree/master/2367-number-of-arithmetic-triplets) |
 ## Linked List
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/2403A51373/leethub/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/2403A51373/leethub/tree/master/1791-find-center-of-star-graph) |
 ## Binary Search Tree
 |  |

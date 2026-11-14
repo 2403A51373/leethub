@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/2403A51373/leethub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/2403A51373/leethub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/2403A51373/leethub/tree/master/0287-find-the-duplicate-number) |
+| [0494-target-sum](https://github.com/2403A51373/leethub/tree/master/0494-target-sum) |
 | [0682-baseball-game](https://github.com/2403A51373/leethub/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/2403A51373/leethub/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/2403A51373/leethub/tree/master/0746-min-cost-climbing-stairs) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/2403A51373/leethub/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/2403A51373/leethub/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/2403A51373/leethub/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/2403A51373/leethub/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/2403A51373/leethub/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/2403A51373/leethub/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -348,4 +350,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/2403A51373/leethub/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/2403A51373/leethub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/2403A51373/leethub/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/2403A51373/leethub/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/2403A51373/leethub/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/2403A51373/leethub/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

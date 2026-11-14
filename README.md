@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/2403A51373/leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/2403A51373/leethub/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/2403A51373/leethub/tree/master/2367-number-of-arithmetic-triplets) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/2403A51373/leethub/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/2403A51373/leethub/tree/master/0733-flood-fill) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2403A51373/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/2403A51373/leethub/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/2403A51373/leethub/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/2403A51373/leethub/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/2403A51373/leethub/tree/master/1791-find-center-of-star-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/2403A51373/leethub/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search Tree
 |  |
 | ------- |

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/2403A51373/leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/2403A51373/leethub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/2403A51373/leethub/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/2403A51373/leethub/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2403A51373/leethub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/2403A51373/leethub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/2403A51373/leethub/tree/master/0287-find-the-duplicate-number) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/2403A51373/leethub/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/2403A51373/leethub/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2403A51373/leethub/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2403A51373/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/2403A51373/leethub/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/2403A51373/leethub/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/2403A51373/leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/2403A51373/leethub/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/2403A51373/leethub/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/2403A51373/leethub/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/2403A51373/leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/2403A51373/leethub/tree/master/0404-sum-of-left-leaves) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/2403A51373/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/2403A51373/leethub/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/2403A51373/leethub/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/2403A51373/leethub/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/2403A51373/leethub/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/2403A51373/leethub/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/2403A51373/leethub/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -362,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/2403A51373/leethub/tree/master/0494-target-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/2403A51373/leethub/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

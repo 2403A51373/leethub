@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/2403A51373/leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/2403A51373/leethub/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/2403A51373/leethub/tree/master/2367-number-of-arithmetic-triplets) |
+| [3364-minimum-positive-sum-subarray](https://github.com/2403A51373/leethub/tree/master/3364-minimum-positive-sum-subarray) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/2403A51373/leethub/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
@@ -385,4 +386,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/2403A51373/leethub/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/2403A51373/leethub/tree/master/0695-max-area-of-island) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/2403A51373/leethub/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/2403A51373/leethub/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->

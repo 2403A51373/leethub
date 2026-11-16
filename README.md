@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/2403A51373/leethub/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/2403A51373/leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/2403A51373/leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1905-count-sub-islands](https://github.com/2403A51373/leethub/tree/master/1905-count-sub-islands) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/2403A51373/leethub/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/2403A51373/leethub/tree/master/2367-number-of-arithmetic-triplets) |
 | [3364-minimum-positive-sum-subarray](https://github.com/2403A51373/leethub/tree/master/3364-minimum-positive-sum-subarray) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/2403A51373/leethub/tree/master/0733-flood-fill) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/2403A51373/leethub/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2403A51373/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1905-count-sub-islands](https://github.com/2403A51373/leethub/tree/master/1905-count-sub-islands) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/2403A51373/leethub/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/2403A51373/leethub/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/2403A51373/leethub/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/2403A51373/leethub/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2403A51373/leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1905-count-sub-islands](https://github.com/2403A51373/leethub/tree/master/1905-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/2403A51373/leethub/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2403A51373/leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/2403A51373/leethub/tree/master/1609-even-odd-tree) |
+| [1905-count-sub-islands](https://github.com/2403A51373/leethub/tree/master/1905-count-sub-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/2403A51373/leethub/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/2403A51373/leethub/tree/master/0695-max-area-of-island) |
+| [1905-count-sub-islands](https://github.com/2403A51373/leethub/tree/master/1905-count-sub-islands) |
 ## Sliding Window
 |  |
 | ------- |

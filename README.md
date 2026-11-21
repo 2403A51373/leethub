@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/2403A51373/leethub/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/2403A51373/leethub/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/2403A51373/leethub/tree/master/0997-find-the-town-judge) |
+| [1046-last-stone-weight](https://github.com/2403A51373/leethub/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/2403A51373/leethub/tree/master/1089-duplicate-zeros) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/2403A51373/leethub/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2403A51373/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -403,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/2403A51373/leethub/tree/master/3364-minimum-positive-sum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/2403A51373/leethub/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
